@@ -995,3 +995,8 @@ vendors:
 css: css
 js: js
 images: images
+
+# Google Analytics
+google_analytics:
+  tracking_id: UA-171656166-1
+  localhost_ignored: false
